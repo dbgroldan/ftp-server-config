@@ -1,9 +1,10 @@
-# Quick Technical Test
+# Basic configuration for FTP-Server (vsftpd)
 ### Use
 This is a basic configuration for a simple server using **vsftpd**.
 
 ## Designed by:
 dbgroldan
+
 **E-Mail:** dbgroldan@gmail.com
 
 ### Recommendations
