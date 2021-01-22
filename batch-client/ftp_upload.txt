@@ -1,0 +1,5 @@
+user <username> <password>
+lcd C:\<local_path>
+bin
+mput <filename>.zip .
+bye
